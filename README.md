@@ -1,3 +1,3 @@
-# AAprendendoCondi-oesJava
+# AprendendoCondicoesJava
 
 ## AprendendoJava
